@@ -6,7 +6,7 @@
 #include <SDL/SDL_mixer.h>
 #include "jeu.h"
 #include "image.h"
-
+//bonjour
 SDL_Surface *ecran;
 
 
